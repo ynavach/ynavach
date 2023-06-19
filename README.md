@@ -1,16 +1,23 @@
-### Hi there 👋
+### Hola, Soy Yunensey Nava 👋
 
-<!--
-**ynavach/ynavach** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### ✨ Desarrolladora de Software, apasionada por continuar aprendiendo sobre nuevas tecnologías. 
 
-Here are some ideas to get you started:
+<p align="center">
+🌱 Me gusta usar Python y disfruto el desafío de cada proyecto.
+🔭 Actualmente busco oportunidades laborales en las que pueda profundizar y fortalecer mis habilidades de desarrollo backend.
+👯 Comprometida en contribuir con la transformación digital.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img width="460" height="300" src="https://github.com/ynavach/ynavach/assets/118191014/1b68ec61-6c32-41ea-9624-2ff8ec4c8af1">
+</p>
+
+<p align="left">
+📫 Cómo contactarme: Envíame un mensaje en mi perfil de Linkedin ( https://www.linkedin.com/in/yunensey-nava-b85278275/ ) y te responderé lo antes posible.
+</p>
+<p align="right">
+<b>“La función de un buen software es hacer que lo complejo aparente ser simple” 
+~Grady Booch </b>
+</p>
+
+
