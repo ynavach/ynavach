@@ -27,17 +27,18 @@
 </p>
 
 <br />
-<br />
 
-<p align="left">
+<p align="right">
 📫 Cómo contactarme: Envíame un mensaje a mi correo: <b> ynavach@gmail.com </b> y te responderé lo antes posible.
 </p>
 
 <br />
 
-<p align="right">
-<b>“La función de un buen software es hacer que lo complejo aparente ser simple” 
-~Grady Booch </b>
+> _**“ La función de un buen software es hacer que lo complejo aparente ser simple ”**_
+> ~Grady Booch
+
+<br />
+<br />
+<p align="center">
+<a href="https://www.flaticon.com/free-icons/postgre" title="icons"> icons created by Freepik - Flaticon</a>
 </p>
-
-
